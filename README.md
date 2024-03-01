@@ -1,0 +1,1 @@
+An advanced Java coursework completed in late 2023 which replicates a shopping system which has utilises OOP to create an admin terminal to add/edit/remove products, print products and launch a customer focused GUI.
